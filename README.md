@@ -1,5 +1,5 @@
 # mkv-rar-test
-A uncompressed rar archive of a test .mkv video file from http://www.jell.yfish.us/
+An uncompressed rar archive of a test .mkv video file from http://www.jell.yfish.us/
 
 Original: http://www.jell.yfish.us/media/jellyfish-40-mbps-hd-h264.mkv
 
